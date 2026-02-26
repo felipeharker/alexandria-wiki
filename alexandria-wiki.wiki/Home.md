@@ -1,1 +1,1 @@
-TEST TEST TEST
+Welcome to the alexandria-wiki wiki!
